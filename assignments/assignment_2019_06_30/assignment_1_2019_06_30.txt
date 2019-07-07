@@ -1,0 +1,64 @@
+## 回答以下问题
+
+ 1. what do you want to acquire in this course？
+
+ I wish to learn NLP/AI theory systemly and get NLP coding skill to figure out problems in the actual work.
+
+ 2. what problems do you want to solve？
+
+ The problem is I don't understand a lot of AI algorithms and don't konw how to turn it to code. I want to learn algorithms and advanced coding skill.
+
+ 3. what’s the advantages you have to finish you goal?
+
+ I'v got more than 1 year python working experience and finished several bigdata projects.
+
+ 4. what’s the disadvantages you need to overcome to finish you goal?
+
+ I think time is the biggest trouble.
+
+ 5. How will you plan to study in this course period?
+
+ I plan to learn this course in the weekend and night after work, and try to finished assignment well.
+
+
+ ## 基础理论部分
+
+ 0. Can you come up out 3 sceneraies which use AI methods?
+
+ Ans: chat robot，face recognition，self-drving car
+
+ 1. How do we use Github; Why do we use Jupyter and Pycharm;
+
+ Ans: We use github for a lot of reasons, such as version control, team working, bug track, code review. We use jupyter to do interactive computing and use pycharm to organize project code and code deployment.
+
+ 2. What's the Probability Model?
+
+ Ans: As I unsderstand, probability model is math method to imitate actual work. As google say, A probability model is a mathematical representation of a random phenomenon. It is defined by its sample space, events within the sample space, and probabilities associated with each event.
+
+ 3. Can you came up with some sceneraies at which we could use Probability Model?
+
+ Ans: 1.chat robot, 2.recommended system, 3. weather forecast
+
+ 4. Why do we use probability and what's the difficult points for programming based on parsing and pattern match?
+
+ Ans: We use probability to tell us which sentence is more likely to occur. Programming based on parsing and pattern match performs well in some specific scenarios but have a poor generality.
+
+ 5. What's the Language Model;
+
+ Ans: Language Model can tell you the probability of a certain sentence occur.
+
+ 6. Can you came up with some sceneraies at which we could use Language Model?
+
+ Ans: AI voice assistant, machine translation， signal processing, voice recognization.
+
+ 7. What's the 1-gram language model;
+
+ Ans: 1-gram language model means the probability of occurrence of item is not revelent to other items, only depends on itself.
+
+ 8. What's the disadvantages and advantages of 1-gram language model;
+
+ Ans: The advantage of 1-gram language model is that is made complex computing more simple and very efficien, but it made language module too naive, cause the language is very complicated, the occurence of a word may relevent to mang words in the other locations.
+
+ 9. What't the 2-gram models
+
+ Ans: 2-gram module (Bigram Module) which means the probability of occurrence of a word is only revelent to it's first word before itself
